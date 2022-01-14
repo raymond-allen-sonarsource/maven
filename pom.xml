@@ -785,3 +785,7 @@ under the License.
     </profile>
   </profiles>
 </project>
+<properties>
+  <sonar.organization>raymond-allen-sonarsource</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
